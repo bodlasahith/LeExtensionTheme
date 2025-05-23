@@ -1,0 +1,46 @@
+{
+  "name": "leextensiontheme",
+  "displayName": "LeExtensionTheme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lakers",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lakers-color-theme.json"
+      },
+      {
+        "label": "Lakers Light",
+        "uiTheme": "vs",
+        "path": "./themes/Lakers-light-color-theme.json"
+      },
+      {
+        "label": "Cavaliers",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cavaliers-color-theme.json"
+      },
+      {
+        "label": "Cavaliers Light",
+        "uiTheme": "vs",
+        "path": "./themes/Cavaliers-light-color-theme.json"
+      },
+      {
+        "label": "Heat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Heat-color-theme.json"
+      },
+      {
+        "label": "Heat Light",
+        "uiTheme": "vs",
+        "path": "./themes/Heat-light-color-theme.json"
+      }
+    ]
+  }
+}

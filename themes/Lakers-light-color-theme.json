@@ -1,0 +1,133 @@
+{
+  "name": "Lakers Light",
+  "colors": {
+    "editor.background": "#ffffff",
+    "editor.foreground": "#24135f",
+    "editorLineNumber.foreground": "#7a7a7a",
+    "editorLineNumber.activeForeground": "#fdb927",
+    "editorCursor.foreground": "#fdb927",
+    "editor.selectionBackground": "#fdb92744",
+    "editor.selectionHighlightBackground": "#fdb92722",
+    "editorIndentGuide.background1": "#e0e0e0",
+    "editorIndentGuide.activeBackground1": "#fdb927",
+    "editorWhitespace.foreground": "#dcdcdc",
+
+    "activityBar.background": "#fdb927",
+    "activityBar.foreground": "#24135f",
+    "activityBarBadge.background": "#552583",
+    "activityBarBadge.foreground": "#fffde4",
+
+    "sideBar.background": "#f8f8f8",
+    "sideBar.foreground": "#24135f",
+    "sideBarTitle.foreground": "#552583",
+    "sideBarSectionHeader.background": "#f8f8f8",
+    "sideBarSectionHeader.foreground": "#552583",
+
+    "statusBar.background": "#fdb927",
+    "statusBar.foreground": "#24135f",
+    "statusBar.debuggingBackground": "#552583",
+    "statusBar.debuggingForeground": "#fffde4",
+
+    "titleBar.activeBackground": "#fff",
+    "titleBar.activeForeground": "#24135f",
+    "titleBar.inactiveBackground": "#f3f3f3",
+    "titleBar.inactiveForeground": "#888888",
+
+    "panel.background": "#fdfdfd",
+    "panel.border": "#fdb927",
+    "panelTitle.activeForeground": "#552583",
+    "panelTitle.inactiveForeground": "#a0a0a0",
+
+    "tab.activeBackground": "#ffffff",
+    "tab.activeForeground": "#24135f",
+    "tab.inactiveBackground": "#f0f0f0",
+    "tab.inactiveForeground": "#a0a0a0",
+    "tab.border": "#fdb927",
+
+    "terminal.foreground": "#24135f",
+    "terminal.background": "#ffffff",
+    "terminal.ansiBlack": "#000000",
+    "terminal.ansiRed": "#ff5370",
+    "terminal.ansiGreen": "#388e3c",
+    "terminal.ansiYellow": "#fdb927",
+    "terminal.ansiBlue": "#3f51b5",
+    "terminal.ansiMagenta": "#9c27b0",
+    "terminal.ansiCyan": "#00acc1",
+    "terminal.ansiWhite": "#eeeeee",
+    "terminal.ansiBrightBlack": "#9e9e9e",
+    "terminal.ansiBrightRed": "#ff1744",
+    "terminal.ansiBrightGreen": "#00e676",
+    "terminal.ansiBrightYellow": "#ffd600",
+    "terminal.ansiBrightBlue": "#2979ff",
+    "terminal.ansiBrightMagenta": "#ea80fc",
+    "terminal.ansiBrightCyan": "#18ffff",
+    "terminal.ansiBrightWhite": "#ffffff",
+
+    "badge.background": "#552583",
+    "badge.foreground": "#fffde4",
+
+    "dropdown.background": "#ffffff",
+    "dropdown.foreground": "#24135f",
+    "dropdown.border": "#fdb927",
+
+    "button.background": "#552583",
+    "button.foreground": "#fffde4",
+    "button.hoverBackground": "#6a3a94",
+
+    "input.background": "#ffffff",
+    "input.foreground": "#24135f",
+    "input.border": "#fdb927",
+    "input.placeholderForeground": "#888888",
+
+    "scrollbarSlider.background": "#fdb92744",
+    "scrollbarSlider.hoverBackground": "#fdb92766",
+    "scrollbarSlider.activeBackground": "#fdb92788",
+  },
+  "tokenColors": [
+    {
+      "name": "Comment",
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": {"fontStyle": "italic", "foreground": "#bdbdbd"}
+    },
+    {
+      "name": "Variables",
+      "scope": ["variable", "string constant.other.placeholder"],
+      "settings": {"foreground": "#817800"}
+    },
+    {
+      "name": "Keyword, Storage",
+      "scope": ["keyword", "storage.type", "storage.modifier"],
+      "settings": {"foreground": "#ffb922"}
+    },
+    {
+      "name": "Function, Special Method",
+      "scope": ["entity.name.function", "meta.function-call", "variable.function", "support.function", "keyword.other.special-method"],
+      "settings": {"foreground": "#552583"}
+    },
+    {
+      "name": "String",
+      "scope": ["string"],
+      "settings": {"foreground": "#99b66e"}
+    },
+    {
+      "name": "Number, Constant",
+      "scope": ["constant.numeric", "constant.language", "constant.character"],
+      "settings": {"foreground": "#F78C6C"}
+    },
+    {
+      "name": "Tag",
+      "scope": ["entity.name.tag"],
+      "settings": {"foreground": "#f07178"}
+    },
+    {
+      "name": "Attribute",
+      "scope": ["entity.other.attribute-name"],
+      "settings": {"foreground": "#C792EA"}
+    },
+    {
+      "name": "Class, Support",
+      "scope": ["support.class", "support.type"],
+      "settings": {"foreground": "#a96e00"}
+    }
+  ]
+}
