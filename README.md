@@ -1,16 +1,32 @@
-# leextensiontheme README
+# LeExtensionTheme
 
-## Working with Markdown
+LeExtensionTheme is a collection of Visual Studio Code color themes inspired by the NBA teams LeBron James has played for during his career. Each theme is carefully color-coded to reflect the unique style and colors of these iconic teams.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Included Themes
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- **Cavaliers**: A theme based on the Cleveland Cavaliers' wine, gold, and navy colors.
+- **Heat**: A theme inspired by the Miami Heat's red, black, and yellow palette.
+- **Lakers**: A theme featuring the Los Angeles Lakers' purple and gold colors.
 
-## For more information
+Each team has both a standard and a light variant, so you can choose the look that best fits your workspace.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## How to Use
 
-**Enjoy!**
+1. Install the LeExtensionTheme extension from the VS Code Marketplace.
+2. Open the Command Palette (`Cmd+Shift+P` on macOS or `Ctrl+Shift+P` on Windows/Linux).
+3. Type `Color Theme` and select your preferred LeExtension NBA team theme.
+
+## Screenshots
+
+_Cavaliers Theme:_
+![Cavaliers Theme](themes/Cavaliers-color-theme.json)
+
+_Heat Theme:_
+![Heat Theme](themes/Heat-color-theme.json)
+
+_Lakers Theme:_
+![Lakers Theme](themes/Lakers-color-theme.json)
+
+## About
+
+These themes celebrate LeBron James' legendary NBA journey and let you show your team spirit while coding!
