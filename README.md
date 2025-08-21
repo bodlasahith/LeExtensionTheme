@@ -16,17 +16,6 @@ Each team has both a standard and a light variant, so you can choose the look th
 2. Open the Command Palette (`Cmd+Shift+P` on macOS or `Ctrl+Shift+P` on Windows/Linux).
 3. Type `Color Theme` and select your preferred LeExtension NBA team theme.
 
-## Screenshots
-
-_Cavaliers Theme:_
-![Cavaliers Theme](themes/Cavaliers-color-theme.json)
-
-_Heat Theme:_
-![Heat Theme](themes/Heat-color-theme.json)
-
-_Lakers Theme:_
-![Lakers Theme](themes/Lakers-color-theme.json)
-
 ## About
 
 These themes celebrate LeBron James' legendary NBA journey and let you show your team spirit while coding!
